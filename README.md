@@ -1,5 +1,5 @@
 
-# Flappy Bird in Java (AWT/Swing)
+# Flappy Bird in Java
 
 This project is a recreation of the popular game **Flappy Bird** using Java's built-in AWT/Swing graphics libraries. The game runs at **120 FPS**, creating a smooth and responsive gaming experience.
 
@@ -43,10 +43,11 @@ This project is a recreation of the popular game **Flappy Bird** using Java's bu
 
 ## How to Play
 
-- Click anywhere inside the game window to make the bird "flap" and jump upwards.
+- Click space bar in the game window to make the bird "flap" and jump upwards.
 - Avoid the moving pipes by timing your jumps.
 - The score increases by 1 each time the bird successfully passes between pipes.
 - The game ends when the bird collides with a pipe or falls out of the screen.
+- Click Enter key to restart the game.
 
 ## Game Architecture
 
